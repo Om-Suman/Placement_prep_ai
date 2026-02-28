@@ -35,7 +35,7 @@ This project solves that by building a **Retrieval-Augmented Generation (RAG)** 
 │  │  - Chat      │    │      │                               │  │
 │  │  - Browse    │    │      ▼                               │  │
 │  │  - Ingest    │    │  Gemini text-embedding-004           │  │
-│  └──────────────┘    │      │ (768-dim query vector)        │  │
+│  └──────────────┘    │      │ (3078-dim query vector)        │  │
 │                       │      ▼                               │  │
 │                       │  ┌────────────────────┐             │  │
 │                       │  │   ENDEE VECTOR DB  │             │  │
@@ -140,7 +140,7 @@ The pre-loaded dataset covers **25 Q&A pairs** across 6 placement domains:
 
 ## � Live Demo
 
-> **Deployed application:** _<insert your Railway/other host URL here>_
+> **Deployed application:** _<[insert your Railway/other host URL here](https://om-suman-placement-prep-ai-app-yx3diy.streamlit.app/)>_
 
 ## �🚀 Setup & Running the Project
 
