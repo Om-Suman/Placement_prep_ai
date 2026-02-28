@@ -140,7 +140,7 @@ The pre-loaded dataset covers **25 Q&A pairs** across 6 placement domains:
 
 ## � Live Demo
 
-> **Deployed application:** _<[insert your Railway/other host URL here](https://om-suman-placement-prep-ai-app-yx3diy.streamlit.app/)>_
+> **Deployed application:** _<[HERE](https://om-suman-placement-prep-ai-app-yx3diy.streamlit.app/)>_
 
 ## �🚀 Setup & Running the Project
 
