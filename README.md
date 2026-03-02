@@ -153,12 +153,11 @@ The pre-loaded dataset covers **25 Q&A pairs** across 6 placement domains:
 ### Step 1: Clone and Fork
 
 ```bash
-# Fork https://github.com/endee-io/endee on GitHub, then:
-git clone https://github.com/<your-username>/endee
+git clone https://github.com/endee-io/endee
 cd endee
 
 # Clone this project separately
-git clone https://github.com/<your-username>/placement-prep-ai
+git clone https://github.com/Om-Suman/Placement_prep_ai
 cd placement-prep-ai
 ```
 
